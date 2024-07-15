@@ -7,8 +7,8 @@ const data = [
         registerNumber: '1',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/savith.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'savith.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 2,
@@ -18,8 +18,8 @@ const data = [
         registerNumber: '2',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/methuka.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'methuka.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 3,
@@ -29,8 +29,8 @@ const data = [
         registerNumber: '3',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/dimantha.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'dimantha.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 4,
@@ -40,8 +40,8 @@ const data = [
         registerNumber: '4',
         sports: 'Badminton, Chess',
         sportsAccomplishments: 'Runners Up In Sportmeet 2023, Second Runner Up in Sportmeet 2022, Badminton Camp 2023,2022',
-        img: './Assets/rageeth.png',
-        smallImg: './assets/secimg.png'
+        img: 'rageeth.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 5,
@@ -51,8 +51,8 @@ const data = [
         registerNumber: '5',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/senuth.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'senuth.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 6,
@@ -62,8 +62,8 @@ const data = [
         registerNumber: '6',
         sports: 'Rugby',
         sportsAccomplishments: 'not known',
-        img: './Assets/santhul.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'santhul.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 7,
@@ -73,8 +73,8 @@ const data = [
         registerNumber: '7',
         sports: 'Badminton, Brass Band',
         sportsAccomplishments: '2022 "Prashasthi"Gr and Music Show Euphonium Player, 2022 SportMeet Participated',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 8,
@@ -84,8 +84,8 @@ const data = [
         registerNumber: '8',
         sports: 'Badminton, Brass Band',
         sportsAccomplishments: '2022 "Prashasthi"Gr and Music Show Euphonium Player, 2022 SportMeet Participated',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 9,
@@ -95,8 +95,8 @@ const data = [
         registerNumber: '9',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 10,
@@ -106,8 +106,8 @@ const data = [
         registerNumber: '10',
         sports: 'BasketBall, Table Tennis, Swimming',
         sportsAccomplishments: 'BasketBall Couching Camp',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 11,
@@ -117,8 +117,8 @@ const data = [
         registerNumber: '11',
         sports: 'Swimming, Ananda College Western Band',
         sportsAccomplishments: '2020 Swimming House Meet, 2024 Novices Meet, Five cheaf Guest Arrival, Prashasthi Show 2023, School Sport Meet 2023',
-        img: './Assets/lorensu.png',
-        smallImg: './assets/secimg.png'
+        img: 'lorensu.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 12,
@@ -128,8 +128,8 @@ const data = [
         registerNumber: '12',
         sports: 'Badminton, Basketball',
         sportsAccomplishments: 'Badminton House meet, Badminton zonal',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 13,
@@ -139,8 +139,8 @@ const data = [
         registerNumber: '13',
         sports: 'Ruger, Swimming',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 14,
@@ -150,8 +150,8 @@ const data = [
         registerNumber: '14',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 15,
@@ -161,8 +161,8 @@ const data = [
         registerNumber: '15',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 16,
@@ -172,8 +172,8 @@ const data = [
         registerNumber: '16',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 17,
@@ -183,8 +183,8 @@ const data = [
         registerNumber: '17',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 18,
@@ -194,8 +194,8 @@ const data = [
         registerNumber: '18',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/chana.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'chana.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 19,
@@ -205,8 +205,8 @@ const data = [
         registerNumber: '19',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/sethmika.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'sethmika.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 20,
@@ -216,8 +216,8 @@ const data = [
         registerNumber: '20',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 21,
@@ -227,8 +227,8 @@ const data = [
         registerNumber: '21',
         sports: 'not known, Badminton',
         sportsAccomplishments: 'Coaching Camp House Match Football',
-        img: './Assets/kemitha.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'kemitha.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 22,
@@ -238,8 +238,8 @@ const data = [
         registerNumber: '22',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/pahan.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'pahan.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 23,
@@ -249,8 +249,8 @@ const data = [
         registerNumber: '23',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 24,
@@ -260,8 +260,8 @@ const data = [
         registerNumber: '24',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/nethupa.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'nethupa.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 25,
@@ -271,8 +271,8 @@ const data = [
         registerNumber: '25',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/hesadu.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'hesadu.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 26,
@@ -282,8 +282,8 @@ const data = [
         registerNumber: '26',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 27,
@@ -293,8 +293,8 @@ const data = [
         registerNumber: '27',
         sports: 'Table Tennis',
         sportsAccomplishments: 'not known',
-        img: './Assets/janiru.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'janiru.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 28,
@@ -304,8 +304,8 @@ const data = [
         registerNumber: '28',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 29,
@@ -315,8 +315,8 @@ const data = [
         registerNumber: '29',
         sports: 'not known, Chess',
         sportsAccomplishments: '2023 football training camp, 2024 football training camp, 2023 sportmeet football matches, 2023 inter school zonal football championship, Maroons futsal 2023 under 14',
-        img: './Assets/okitha.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'okitha.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 30,
@@ -326,8 +326,8 @@ const data = [
         registerNumber: '30',
         sports: 'Tennis, Chess',
         sportsAccomplishments: '2023 Sportmeet Participated, 2022 Sportmeet Participated',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 31,
@@ -337,8 +337,8 @@ const data = [
         registerNumber: '31',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/thenul.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'thenul.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 32,
@@ -348,8 +348,8 @@ const data = [
         registerNumber: '32',
         sports: 'Rugby',
         sportsAccomplishments: 'not known',
-        img: './Assets/rithra.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'rithra.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 33,
@@ -359,8 +359,8 @@ const data = [
         registerNumber: '33',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 34,
@@ -370,8 +370,8 @@ const data = [
         registerNumber: '34',
         sports: 'Handball, Chess',
         sportsAccomplishments: 'House Match 2023 Captain of Vijaya House And Played For Gamunu',
-        img: './Assets/sanuk.png',
-        smallImg: './assets/secimg.png'
+        img: 'sanuk.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 35,
@@ -381,8 +381,8 @@ const data = [
         registerNumber: '35',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 36,
@@ -392,8 +392,8 @@ const data = [
         registerNumber: '36',
         sports: 'Teakwondo',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 37,
@@ -403,8 +403,8 @@ const data = [
         registerNumber: '37',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/devin.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'devin.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 38,
@@ -414,8 +414,8 @@ const data = [
         registerNumber: '38',
         sports: 'Table Tennis',
         sportsAccomplishments: 'Molligoda Parakrama College Challenge Trophy 2023 Semi Finalist',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 39,
@@ -425,8 +425,8 @@ const data = [
         registerNumber: '39',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 40,
@@ -436,8 +436,8 @@ const data = [
         registerNumber: '40',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 41,
@@ -447,8 +447,8 @@ const data = [
         registerNumber: '41',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 42,
@@ -458,8 +458,8 @@ const data = [
         registerNumber: '42',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     },
     {
         id: 43,
@@ -469,8 +469,8 @@ const data = [
         registerNumber: '43',
         sports: 'Table Tennis, Cubing',
         sportsAccomplishments: 'not known',
-        img: './Assets/dulen.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'dulen.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 44,
@@ -480,8 +480,8 @@ const data = [
         registerNumber: '44',
         sports: 'not known',
         sportsAccomplishments: 'not known',
-        img: './Assets/sehas.jpg',
-        smallImg: './assets/secimg.png'
+        img: 'sehas.jpg',
+        smallImg: 'secimg.png'
     },
     {
         id: 45,
@@ -491,8 +491,8 @@ const data = [
         registerNumber: '45',
         sports: 'Swimming, Cricket',
         sportsAccomplishments: 'not known',
-        img: './Assets/not.png',
-        smallImg: './assets/secimg.png'
+        img: 'not.png',
+        smallImg: 'secimg.png'
     }
 ];
 
