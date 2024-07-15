@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Details</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="icon" type="image/png" href="./assets/secimg.png">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html"><i class="fas fa-home"></i> Home</a></li>
+
+            <li>
+                <input type="text" id="searchBar" placeholder="Find by Admission Number"onkeyup="searchCards()">
+                <i class="fas fa-search search-icon"></i>
+
+                </button>
+            </li>
+        </ul>
+    </nav>
+
+
+    <main>
+        <div class="details-grid">
+            <img id="person-image" alt="Person Image" class="center-image">
+            <h2 id="person-name" class="center-text"></h2>
+            <div class="detail-item">Admission Number: <span id="admission-number"></span></div>
+            <div class="detail-item">Exam Number: <span id="exam-number"></span></div>
+            <div class="detail-item">Register Number: <span id="register-number"></span></div>
+            <div class="detail-item">Sports: <span id="sports"></span></div>
+            <div class="detail-item">Sports Accomplishments: <span id="sports-accomplishments"></span></div>
+        </div>
+    </main>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
